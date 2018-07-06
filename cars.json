@@ -1,6 +1,6 @@
 [
     {
-        "make": "Ferrari", //Speech marks are used for properties in JSON
+        "make": "Ferrari",
         "model": "458 Italia",
         "price": 200000,
         "transmission":{
